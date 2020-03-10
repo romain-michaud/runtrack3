@@ -1,0 +1,12 @@
+body{
+    min-height: 4096px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    height:60px;
+    width:0%;
+    margin:0;
+}
